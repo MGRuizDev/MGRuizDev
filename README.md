@@ -1,1 +1,1 @@
-## Hello, I'm Miguel. Welcome ti my github.
+## Hello, I'm Miguel. Welcome to my github.
