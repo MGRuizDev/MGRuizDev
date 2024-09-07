@@ -8,10 +8,10 @@
 
 ### I’m currently learning new skills mainly on Machine Learning and Data Security.
 #### The Tools I Use:
-    * Language: SQL, Python, R
-    * Database: Google BigQuery, PostgreSQL
-    * Visualization: Power BI, Tableau
-    * Processing: Excel, Google sheets
+    * Language: SQL, Python.
+    * Database: Google BigQuery, PostgreSQL.
+    * Visualization: Power BI, Tableau.
+    * Processing: Excel, Google sheets.
 
 ### Check My Portfolio:
 #### Here you can see some of my personal [Projects](https://mgruizdev.github.io/)
